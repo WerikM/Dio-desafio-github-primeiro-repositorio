@@ -1,0 +1,2 @@
+Git add . (para adicionar tudo)
+Git commit -m "Nota sobre o arquivo" (para commitar)
