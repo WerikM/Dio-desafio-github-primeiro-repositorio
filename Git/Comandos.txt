@@ -1,2 +1,3 @@
 Git add . (para adicionar tudo)
 Git commit -m "Nota sobre o arquivo" (para commitar)
+Git push origin main (para mandar para nuvem)
